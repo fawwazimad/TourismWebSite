@@ -1,0 +1,98 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.logo h1
+{
+    float:right;
+    font-family:cursive;
+    position: relative;
+    top: 20px;
+    font-weight: bold;
+    color: #1F8E9B;
+    text-shadow: 0 0 10px #F69D1D;
+}
+.about-veno img
+{
+    width: 220px;
+    height: 120px;
+    overflow: hidden;
+}
+.about-veno h1 
+{
+    float: none;
+}
+.banner-caption h2
+{
+    font-family:cursive;
+}
+
+.down-content h1 
+{
+    text-align: center;
+    padding-bottom: 20px;
+}
+.down-content a
+{
+    text-decoration: none;
+    color: black;
+} 
+.down-content h1:hover
+{
+    font-size: 60px;
+}
+
+.featured-places
+{
+    position: relative;
+    bottom: 78px;
+}
+
+.video-container
+{
+    position: relative;
+    bottom: 160px;
+}
+ 
+.main
+{
+    background-image: url(../LoginPage/images/signin-image.jpg);
+    background-size: cover;
+}
+.row
+{
+    margin: 15px;
+}
+.signin-image img
+{
+border-radius: 10px;
+}
+.signup-image img
+{
+    border-radius: 10px;
+}
+.section-heading
+{
+    font-family: cursive;
+}
+.section-heading span
+{
+    font-size: 40px;
+}
+ 
+.content span
+{
+    font-size:30px;
+}
+.content h2
+{
+    font-weight: 100;
+    font-size: 20px;
+}
+
+.contact
+{
+    position: relative;
+    bottom: 25px;
+}
